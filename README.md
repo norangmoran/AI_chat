@@ -18,8 +18,8 @@ AI 챗봇 개발을 실습 후 응용하기 위해 다양한 AI 툴 및 기술 �
 
 ## 🛠 기술 스택
 
-- **Python**
-- **Flask**
+- **Python 3.12.7**
+- **Flask 3.1.0**
 - **OpenAI API**
 - **MongoDB (Docker)**
 - **Vector DB (Docker)**
